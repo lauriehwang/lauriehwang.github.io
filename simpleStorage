@@ -106,3 +106,4 @@ function setValue() {
 
 </script>
 </html>
+npm install live-server -g
